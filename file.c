@@ -2,6 +2,6 @@
 
 int main(){
 	
-	printf("NEW FILE!");
+	printf("NEW FILE2!");
 	
 }
